@@ -15,4 +15,4 @@ Progress:,
 ...
 
 i created a [theme](https://replit.com/theme/@pipellala/eva-project)
-![стикер 3](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+![стикер 1](https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif)
